@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="login">
+    <file>image/bg3.png</file>
+    <file>image/hkust_logo.png</file>
+    <file>image/login_main_tr.png</file>
+    <file>image/login_main.png</file>
+    <file>image/hkustMain_logo.png</file>
+    <file>image/bg1.png</file>
+    <file>image/bg2.png</file>
+  </qresource>
+</RCC>
